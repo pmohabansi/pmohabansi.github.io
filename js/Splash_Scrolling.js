@@ -8,7 +8,7 @@ $(function() {
         $(".backgroundImage").hide();
         BV = new $.BigVideo();
         BV.init();
-        BV.show('./BigVideo.js-gh-pages/vids/summer.mp4',{doLoop:true});
+        BV.show('./BigVideo.js-gh-pages/vids/river.mp4',{doLoop:true});
     }
 });
 
@@ -16,7 +16,7 @@ function playVideo(){
     $(".backgroundImage").hide();
     BV = new $.BigVideo();
     BV.init();
-    BV.show('./BigVideo.js-gh-pages/vids/summer.mp4',{doLoop:true});
+    BV.show('./BigVideo.js-gh-pages/vids/river.mp4',{doLoop:true});
 }
 
 /* Shine Text Start */
